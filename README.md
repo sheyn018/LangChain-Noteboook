@@ -1,2 +1,2 @@
-# notebooks
-ML notebooks. LLM fine tuning and all that.
+# LangChain Practice
+Practice notebooks for LangChain.
